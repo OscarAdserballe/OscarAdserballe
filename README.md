@@ -41,7 +41,7 @@ but if anything might be of use to you, feel free to stick around and copy it.
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/OscarAdserballe/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OscarAdserballe)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🌱 I’m currently learning: Getting a Google Data Analytics Professional Certification
 - 📫 How to reach me: oscar.adserballe@gmail.com
