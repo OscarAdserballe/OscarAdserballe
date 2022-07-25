@@ -36,6 +36,8 @@ I've only engaged with programming on a hobby-level to aid me with my other inte
 
 * Harvard's CS50 through EdX
 
+<hr>
+
 You will probably not find much beyond hobby-level projects on this GitHub,
 but if anything might be of use to you, feel free to stick around and copy it.
 
