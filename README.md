@@ -1,8 +1,6 @@
 
 ## Hello, World! I'm Oscar, welcome to my GitHub
 
-<hr>
-
 #### About Me
 I'm a self-taught programmer, who has been programming for fun
 since I was 12 years old as well as having taken a truly fascinating and edifying
