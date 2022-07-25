@@ -16,10 +16,9 @@ my learning.
 
 I started out with Python, but since then I've branched into
 anything else, that might have been useful for any projects
-I might've thought of. I consider myself reasonably fluent in the following
-languages:
+I might've thought of. I consider myself reasonably fluent and have made at least a part of a project in the following languages:
 
-* Python (including Flask framework and for data manipulation)
+* Python (including Flask framework)
 * JavaScript
 * C
 * PHP
