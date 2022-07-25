@@ -19,13 +19,13 @@ anything else, that might have been useful for any projects
 I might've thought of. I consider myself reasonably fluent in the following
 languages:
 
-* Python
+* Python (including flask framework and for data manipulation)
 * JavaScript
 * C
 * PHP
 * SQL (either through sqlite3 or MySQL)
 * HTML
-* CSS (and bootstrap)
+* CSS (and bootstrap framework)
 
 #### Online Courses
 
