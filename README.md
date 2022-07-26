@@ -42,5 +42,5 @@ but if anything might be of use to you, feel free to stick around and copy it.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OscarAdserballe)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🌱 I’m currently learning: Getting a Google Data Analytics Professional Certification
+- 🌱 I’m currently learning: Microsoft Power BI certification and IBM Data Analyst Professional Certificate on Coursera
 - 📫 How to reach me: oscar.adserballe@gmail.com
