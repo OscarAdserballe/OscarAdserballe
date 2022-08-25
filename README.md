@@ -32,6 +32,7 @@ I've only engaged with programming on a hobby-level to aid me with my other inte
 , so I don't have any qualifications beyond some online courses including
 
 * Harvard's CS50 through EdX
+* Google Data Analytics Professional Certificate
 
 <hr>
 
@@ -42,5 +43,5 @@ but if anything might be of use to you, feel free to stick around and copy it.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OscarAdserballe)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🌱 I’m currently learning: Microsoft Power BI certification and Google Data Analytics Professional Certificate through Coursera
+- 🌱 I’m currently learning: Advanced Statistics for Data Science offered by John Hopkins through Coursera
 - 📫 How to reach me: oscar.adserballe@gmail.com
